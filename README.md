@@ -9,7 +9,7 @@
 - Trip duration 
 - User information           
 
-#### During working on the project, there was some points I've searched and found different methods to deal with them and I have applied them in different parts of script
+#### During working on the project, there was some points I've searched and found different methods to deal with them and I have applied them in different parts of script.
 #### There are some points treated with different methods for the same result like in get_filter function and in duration_trip function.
 
 ### The main tools used during working:
