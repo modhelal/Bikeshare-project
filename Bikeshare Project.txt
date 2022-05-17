@@ -1,0 +1,42 @@
+Bikeshare Project
+In this project we explore data related to bike share systems for three major cities in the United States—Chicago, New York City and Chicago, we use data provided by Motivate, a bike share system provider, to uncover bike share usage patterns.
+It is a two phase project, the First about filtering and loading the specified data, and the Second about analyzing data considering four main categories:
+* Popular times of travel
+* Popular stations and trip
+* Trip duration
+* User information           
+
+During working on the project, there was some points I've searched and found 
+different methods to deal with them and I have applied them in different parts of script, there are some points treated with different methods for the same result like in get_filter function and in duration_trip function.
+
+The main tools used during working:
+Python version 3.1.0
+Anaconda version 4.10.3
+Git Bash
+
+
+Information resources
+Udacity literatures
+Python standard  library
+Python documentation 
+Pandas documentation
+Online web sites like (python, stackoverflow, oreilly, geeksforgeeks)
+
+Links for web pages I have used:
+
+* https://blog.finxter.com/how-to-ask-users-for-input-until-they-provide-a-valid-input/ >>>how to deal with invalid input
+* https://automatetheboringstuff.com/2e/chapter8/
+* https://pypi.org/project/PyInputPlus/
+* https://stackoverflow.com/questions/775049/how-do-i-convert-seconds-to-hours-minutes-and-seconds
+* https://www.geeksforgeeks.org/python-program-to-convert-seconds-into-hours-minutes-and-seconds/
+* https://www.oreilly.com/content/creating-a-global-variable-within-a-function-in-python/
+* https://www.w3resource.com/python-exercises/python-basic-exercise-65.php
+* https://github.com/larymak/Html-Css-Recap
+
+* https://stackoverflow.com/questions/4048651/python-function-to-convert-seconds-into-minutes-hours-and-days
+
+
+
+
+
+                               
